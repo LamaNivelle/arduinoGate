@@ -2,7 +2,7 @@
 #define DIGICODE_H
 
 void initialization();
-void checkPassword();
+int checkPassword();
 void changePassword();
 
 #endif
